@@ -1,0 +1,8 @@
+id: a888
+name: 棋盘
+version: 1.0.0
+author: wwq
+icon: app.png
+desc: '1'
+files:
+  - main.py
